@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T07:38:36.558119+00:00",
+  "last_updated": "2026-03-21T07:25:52.650910+00:00",
   "total": 99,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
@@ -392,21 +392,6 @@
       "id": "36b65474f9c7"
     },
     {
-      "title": "Ei/Scopus-CMLDS 2026",
-      "description": "WikiCFP listing. Apr 24, 2026 - Apr 26, 2026",
-      "venue": "",
-      "deadline": "2026 3rd International Conference on Computing, Machine Learning and Data Science (CMLDS 2026)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=172345&amp;copyownerid=165700",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "b27021efc44b"
-    },
-    {
       "title": "Research Handbook on Decision Science 2026",
       "description": "WikiCFP listing. Aug 31, 2025 - Aug 31, 2026",
       "venue": "",
@@ -420,6 +405,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "99aea99743fe"
+    },
+    {
+      "title": "DaMi 2026",
+      "description": "WikiCFP listing. Jul 25, 2026 - Jul 26, 2026",
+      "venue": "",
+      "deadline": "12th International Conference on Data Mining",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190281&amp;copyownerid=46167",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "3c854d2f7d95"
     },
     {
       "title": "call",
