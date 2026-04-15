@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-14T08:19:54.560065+00:00",
-  "total": 114,
+  "last_updated": "2026-04-15T08:21:08.352079+00:00",
+  "total": 111,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -512,11 +512,11 @@
       "id": "5641b1121c44"
     },
     {
-      "title": "DSIT 2026",
-      "description": "WikiCFP listing. Nov 27, 2026 - Nov 29, 2026",
+      "title": "Cyber Science 2026",
+      "description": "WikiCFP listing. Jun 11, 2026 - Jun 12, 2026",
       "venue": "",
-      "deadline": "2026 IEEE 9th International Conference on Data Science and Information Technology",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=187819&amp;copyownerid=163993",
+      "deadline": "International Conference on Cybersecurity, Situational Awareness and Social Media",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190245&amp;copyownerid=16539",
       "topics": [
         "general"
       ],
@@ -524,7 +524,7 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "e1cfca8a4b3d"
+      "id": "810b13923c68"
     },
     {
       "title": "Cancer Science 2026",
@@ -542,11 +542,11 @@
       "id": "36b65474f9c7"
     },
     {
-      "title": "Cyber Science 2026",
-      "description": "WikiCFP listing. Jun 11, 2026 - Jun 12, 2026",
+      "title": "AIDMK 2026",
+      "description": "WikiCFP listing. Jun 27, 2026 - Jun 28, 2026",
       "venue": "",
-      "deadline": "International Conference on Cybersecurity, Situational Awareness and Social Media",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190245&amp;copyownerid=16539",
+      "deadline": "International Conference on Artificial Intelligence, Data Mining & Knowledge Management",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191951&amp;copyownerid=46167",
       "topics": [
         "general"
       ],
@@ -554,14 +554,14 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "810b13923c68"
+      "id": "58b8eb09a4e8"
     },
     {
-      "title": "AISO 2026",
-      "description": "WikiCFP listing. May 23, 2026 - May 24, 2026",
+      "title": "AIMLDL 2026",
+      "description": "WikiCFP listing. Jul 16, 2026 - Jul 17, 2026",
       "venue": "",
-      "deadline": "15th International Conference on Artificial Intelligence and Soft Computing",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192996&amp;copyownerid=33993",
+      "deadline": "7th International Conference on AI, Machine Learning and Deep Learning",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192273&amp;copyownerid=46167",
       "topics": [
         "general"
       ],
@@ -569,52 +569,7 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "9b42eb79d00c"
-    },
-    {
-      "title": "CRBL 2026",
-      "description": "WikiCFP listing. May 23, 2026 - May 24, 2026",
-      "venue": "",
-      "deadline": "6th International Conference on Cryptography and Blockchain",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194359&amp;copyownerid=33993",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "5da61d3d7dd8"
-    },
-    {
-      "title": "CDKP 2026",
-      "description": "WikiCFP listing. Jun 20, 2026 - Jun 21, 2026",
-      "venue": "",
-      "deadline": "15th International Conference on Data Mining & Knowledge Management Process",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189031&amp;copyownerid=170233",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "e9dd9bcec2bb"
-    },
-    {
-      "title": "NLDM 2026",
-      "description": "WikiCFP listing. May 23, 2026 - May 24, 2026",
-      "venue": "",
-      "deadline": "6th International Conference on NLP & Data Mining",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192578&amp;copyownerid=33993",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "2fa8c8332943"
+      "id": "17a92f9047d3"
     },
     {
       "title": "Research Handbook on Decision Science 2026",
