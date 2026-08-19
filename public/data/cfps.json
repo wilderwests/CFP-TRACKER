@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T07:27:24.218563+00:00",
-  "total": 110,
+  "last_updated": "2026-08-19T07:28:36.153792+00:00",
+  "total": 109,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -165,6 +165,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "8062b9e88cf2"
+    },
+    {
+      "title": "CFP Literature - Wine 2027",
+      "description": "WikiCFP listing. Jun 9, 2027 - Jun 11, 2027",
+      "venue": "",
+      "deadline": "CFP - 6th International Conference Language, Literature, Wine and Territory (Padova, Italy, 9-11 June 2027)",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202712&amp;copyownerid=199995",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "82f76ab64b80"
     },
     {
       "title": "Italian Ecofeminism and Literature 2027",
@@ -677,36 +692,6 @@
       "id": "1069dd2e2dee"
     },
     {
-      "title": "CSSE 2026",
-      "description": "WikiCFP listing. Sep 29, 2026 - Sep 30, 2026",
-      "venue": "",
-      "deadline": "4th International Conference on Computer Science and Software Engineering",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191990&amp;copyownerid=46167",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "3c01c7d6a019"
-    },
-    {
-      "title": "MATE 2026",
-      "description": "WikiCFP listing. Sep 29, 2026 - Sep 30, 2026",
-      "venue": "",
-      "deadline": "9th International Conference of Advances in Materials Science and Engineering",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192130&amp;copyownerid=46167",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "fc58acbebf4c"
-    },
-    {
       "title": "Cancer Science 2026",
       "description": "WikiCFP listing. Nov 23, 2026 - Nov 24, 2026",
       "venue": "",
@@ -720,21 +705,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "36b65474f9c7"
-    },
-    {
-      "title": "IEEE ASIP 2026",
-      "description": "WikiCFP listing. Dec 18, 2026 - Dec 20, 2026",
-      "venue": "",
-      "deadline": "IEEE--2026 8th Asia Symposium on Image Processing (ASIP 2026)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194211&amp;copyownerid=13881",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "6e7d7b5f52ce"
     },
     {
       "title": "Poultry Science 2026",
@@ -825,6 +795,21 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "c91fc555aad7"
+    },
+    {
+      "title": "Call for Papers: AIFORGE 2026",
+      "description": "WikiCFP listing. Aug 30, 2026 - Aug 30, 2026",
+      "venue": "",
+      "deadline": "International Conference on Agentic Intelligence for Foundations, Orchestration, Research, Governance and Engineering",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202727&amp;copyownerid=200007",
+      "topics": [
+        "general"
+      ],
+      "pubType": "unknown",
+      "source": "WikiCFP",
+      "impactTier": "unknown",
+      "impactQuartile": null,
+      "id": "dda1f2a831f6"
     },
     {
       "title": "Special Call for Neurosymbolic Benchmark 2026",
