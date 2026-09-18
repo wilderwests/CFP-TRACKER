@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-17T12:16:56.600622+00:00",
-  "total": 113,
+  "last_updated": "2026-09-18T11:57:22.352201+00:00",
+  "total": 109,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -377,21 +377,6 @@
       "id": "a506f152b627"
     },
     {
-      "title": "ICDTE 2026",
-      "description": "WikiCFP listing. Oct 30, 2026 - Nov 1, 2026",
-      "venue": "",
-      "deadline": "ACM--2026 10th International Conference on Digital Technology in Education (ICDTE 2026)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192958&amp;copyownerid=156935",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "52c8a21fdade"
-    },
-    {
       "title": "Digital Culture & Society 2026",
       "description": "WikiCFP listing. Jun 10, 2026 - Jul 15, 2026",
       "venue": "",
@@ -677,11 +662,11 @@
       "id": "5641b1121c44"
     },
     {
-      "title": "ISPDS 2026",
-      "description": "WikiCFP listing. Oct 23, 2026 - Oct 25, 2026",
+      "title": "MMLDS 2026",
+      "description": "WikiCFP listing. Oct 30, 2026 - Nov 1, 2026",
       "venue": "",
-      "deadline": "2026 7th International Conference on Information Science, Parallel and Distributed Systems",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202494&amp;copyownerid=163220",
+      "deadline": "2026 International Conference on Multimodality, Machine Learning and Data Science",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190543&amp;copyownerid=182680",
       "topics": [
         "general"
       ],
@@ -689,37 +674,7 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "66804e2c9f13"
-    },
-    {
-      "title": "ICPHDS 2026",
-      "description": "WikiCFP listing. Nov 20, 2026 - Nov 22, 2026",
-      "venue": "",
-      "deadline": "2026 5th International Conference on Public Health and Data Science",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203253&amp;copyownerid=163220",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "aa352625feb7"
-    },
-    {
-      "title": "AI4Science 2026",
-      "description": "WikiCFP listing. Oct 23, 2026 - Oct 25, 2026",
-      "venue": "",
-      "deadline": "2026 International Conference on Artificial Intelligence for Science",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190538&amp;copyownerid=182680",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "97db25a74a01"
+      "id": "704473985a04"
     },
     {
       "title": "Science & Religion Forum 2026",
@@ -750,21 +705,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "36b65474f9c7"
-    },
-    {
-      "title": "BIENS 2026",
-      "description": "WikiCFP listing. Oct 17, 2026 - Oct 18, 2026",
-      "venue": "",
-      "deadline": "9th International Conference on Biomedical Engineering and Science",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194215&amp;copyownerid=33993",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "ea5f42ad5813"
     },
     {
       "title": "Poultry Science 2026",
